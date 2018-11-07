@@ -1,0 +1,46 @@
+body
+{
+    background-color: #252525;
+    color: #EEEEEE;
+    text-shadow: 2px 2px 3px #000000;
+}
+.main_color_background
+{
+    background-color: #1c558f;
+}
+
+.main_color_text
+{
+    color: #1c558f;
+    font-weight: bold;
+    text-shadow: 3px 3px 5px #000000;
+}
+
+.main_image
+{
+    background: url('https://as1.ftcdn.net/jpg/01/06/00/46/500_F_106004614_7jXzRQlKZaZWvstl1UqrRNg29EEYUSbS.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.dimness
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(30,30,30,0.7);
+}
+.main_image_content
+{
+    padding: 40px;
+    font-size: 36px;
+}
+
+.part
+{
+    height: auto;
+    text-align: center;
+    vertical-align: bottom;
+    padding:40px;
+    font-size: 26px;
+}
