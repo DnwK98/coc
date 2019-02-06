@@ -1,7 +1,8 @@
-<nav class="navbar navbar-expand-md navbar-dark main_color_background">
+<div style="height: 56px"></div>
+<nav class="navbar navbar-expand-md navbar-dark main_color_background navbar-static-top" style="position: fixed; top:0; right:0; left:0; z-index: 999;">
     <div class="container">
         <a class="navbar-brand" href="{{ url('/') }}">
-            Computer Online Commander
+            ConCom
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
             <span class="navbar-toggler-icon"></span>
