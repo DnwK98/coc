@@ -1,0 +1,48 @@
+.panel_window_bar
+{
+    width:100%;
+    padding:8px;
+    text-shadow: 1px 1px 3px #000000;
+}
+
+.panel_window_content
+{
+    width: 100%;
+    padding:12px;
+    color: #BBBBBB;
+    background-color:rgba(255,255,255,0.04);
+}
+
+.panel_table_statistic
+{
+    width: 100%;
+}
+
+.panel_table_statistic tr td
+{
+    font-size: 10px;
+    text-align: center;
+    border: 1px solid #333;
+    background-color: #222;
+}
+
+.panel_statistic_print
+{
+    background-color: #1c4a85 !important;
+}
+
+.panel_statistic_print:hover
+{
+    background-color: #1d2b3c !important;
+}
+
+.panel_btn
+{
+    color: #EEEEEE;
+    background-color: #1c4a85;
+}
+
+.panel_btn:hover
+{
+    background-color: #1d2b3c;
+}

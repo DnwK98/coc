@@ -20,3 +20,4 @@
 <!-- Styles -->
 <link href="{{ asset('bootstrap-4.0.0/css/bootstrap.css') }}" rel="stylesheet">
 <link href="{{ asset('css/main.css') }}" rel="stylesheet">
+<link href="{{ asset('css/panel.css') }}" rel="stylesheet">
