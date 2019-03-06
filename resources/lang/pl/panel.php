@@ -20,5 +20,6 @@ return [
     'previous' => 'Poprzedni',
     'screen_preview' => 'Podgląd ekranu',
     'run_screen_preview' => 'Uruchom podgląd ekranu',
+    'accept' => 'Akceptuj',
 
 ];
